@@ -8,3 +8,5 @@
 6. Three separate number will be given. They have to be printed in small to large size
 7. There will be many numbers in a line. The numbers will have one
     or more space characters. Find out the total number of numbers in the line.
+8. A whole number is a number whose square root is a whole number
+9. Run Rate
